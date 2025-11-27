@@ -1,6 +1,6 @@
 Hi, I’m @Spacecase808
 I’m interested in AR/VR
-’m currently learning Satalite ASI satalite demuxing and nodeJS
+’m currently learning Satalite ASI demuxing and nodeJS
 I’m looking to collaborate on AR projects
 How to reach me jmyers808@gmail.com
 
