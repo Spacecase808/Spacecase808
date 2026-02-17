@@ -1,7 +1,6 @@
 Hi, I’m @Spacecase808
-I’m interested in AR/VR
-’m currently learning satellite ASI demuxing and nodeJS
-I’m looking to collaborate on AR projects
+I enjoy bash
+I’m currently learning satellite ASI demuxing and nodeJS
 How to reach me jmyers808@gmail.com
 
 <!---
